@@ -1,1 +1,1 @@
-# osm-river-routes-builder
+# osm-river-routes-graph-builder
